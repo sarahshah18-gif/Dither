@@ -1,2 +1,2 @@
-# Gen-Noise
+# Dither
 A generative art playground
